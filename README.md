@@ -1,3 +1,22 @@
-# Sistema-Escolar
-Este Sistema tem Como Objetivo de Cadastrar Alunos, Disciplinas, Cursos e Professores, Matricula-lo em um Curso Adicionar uma Disciplina, Inserir um Professor.
-O Projeto nao tem integração com banco de dados, esta apenas salvando na memoria utilizando ArrayList.
+# ES-SGA
+Protótipo de Sistema de Gestão Acadêmica
+
+1.Funções do Produto:
+
+- [x] Cadastro de Departamentos
+- [x] Cadastro de Professores
+- [x] Cadastro de Cursos
+- [x] Cadastro de Alunos
+- [x] Cadastro de Disciplinas
+- [x] Cadastro de Turmas
+- [x] Matrícula de Alunos em Turmas
+- [x] Cadastro de Grades de Cursos
+- [ ] Cadastro de Calendário Acadêmico
+- [ ] Cadastro de Avaliações de Alunos
+- [ ] Emissão de Comprovante de Matrícula
+- [ ] Gerenciamento de Login
+- [ ] Consulta de Notas
+- [ ] Trancamento de Calendário Acadêmico
+- [ ] Trancamento de Turmas
+- [ ] Trancamento de Matrícula
+- [ ] Emissão de Histórico Escolar
