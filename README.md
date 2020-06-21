@@ -20,3 +20,5 @@ Protótipo de Sistema de Gestão Acadêmica
 - [ ] Trancamento de Turmas
 - [ ] Trancamento de Matrícula
 - [ ] Emissão de Histórico Escolar
+
+obs: *** Projeto ainda nao está salvando no banco de dados ***
